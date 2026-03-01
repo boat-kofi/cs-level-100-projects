@@ -22,4 +22,4 @@ A simple calculator built in C to perform addition, subtraction, multiplication 
 - Navigate to your preferred directory
 - Run this command "git clone [copied URL]"
 - Open the folder in Dev-C++
-- Compile and run ifelsesimplecal.c
+- Compile and run calwhile.c
