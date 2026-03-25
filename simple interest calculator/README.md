@@ -1,4 +1,4 @@
-Simple interest calculator
+#Simple interest calculator
 
 Description
 A simple calculator built in C to calculate for your interest 
